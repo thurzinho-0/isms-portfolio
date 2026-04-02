@@ -1,0 +1,32 @@
+## 🔐 Information Security Risk Assessment
+
+### 🔹 1. Asset: Data Center (Germany)
+
+- **Threat:** Physical intruder  
+- **Vulnerability:** Lack of adequate physical access controls  
+- **Risk:** Unauthorized access to the data center  
+- **Impact:** High (compromise of critical systems)  
+- **Likelihood:** Medium  
+- **Risk Level:** High  
+
+---
+
+### 🔹 2. Asset: SAP S/4HANA (ERP System)
+
+- **Threat:** Cyber attack / Social engineering  
+- **Vulnerability:** Lack of system updates or weak access control mechanisms  
+- **Risk:** Data breach and unauthorized access  
+- **Impact:** High (financial and operational data exposure)  
+- **Likelihood:** High  
+- **Risk Level:** High  
+
+---
+
+### 🔹 3. Asset: Intellectual Property (Engineering Data)
+
+- **Threat:** Data theft / Industrial espionage  
+- **Vulnerability:** Lack of access control or encryption  
+- **Risk:** Unauthorized access to intellectual property  
+- **Impact:** High (loss of competitive advantage)  
+- **Likelihood:** Medium  
+- **Risk Level:** High  
