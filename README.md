@@ -75,4 +75,3 @@ This project demonstrates the ability to:
 ## 📎 Contact
 
 📧 arthurdearaujomarques@gmail.com  
-🔗 LinkedIn: [ADD YOUR LINK HERE]
